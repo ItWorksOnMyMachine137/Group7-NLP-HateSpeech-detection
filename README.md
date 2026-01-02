@@ -1,4 +1,4 @@
-# 🛡️ Group 8: CivilityAI - 仇恨言论检测系统 (Hate Speech Detection System)
+# 🛡️ Group 8 - Hate Speech Detection System
 
 ![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -7,13 +7,13 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
-[English](#-group-8-civilityai---hate-speech-detection-system-english) | [简体中文](#-group-8-civilityai---仇恨言论检测系统-简体中文)
+[English](#-group-8---hate-speech-detection-system-english) | [简体中文](#-group-8---仇恨言论检测系统-简体中文)
 ---
 
-<a name="-group-8-civilityai---hate-speech-detection-system-english"></a>
+<a name="-group-8---hate-speech-detection-system-english"></a>
 ## 📖 Project Overview (English)
 
-**CivilityAI** is an advanced NLP-based system designed to detect and mitigate hate speech in online text. Developed by **Group 8** for our NLP course project, this system leverages a hybrid approach combining traditional linguistic features and state-of-the-art **BERT embeddings**.
+**Hate Speech Detection System** is an advanced NLP-based system designed to detect and mitigate hate speech in online text. Developed by **Group 8** for our NLP course project, this system leverages a hybrid approach combining traditional linguistic features and state-of-the-art **BERT embeddings**.
 
 The system not only classifies text into **Hate Speech**, **Offensive Language**, or **Neutral**, but also provides a real-time visualization of confidence scores and an automatic **hate word masking** feature to foster a safer online environment.
 
@@ -38,10 +38,10 @@ The system not only classifies text into **Hate Speech**, **Offensive Language**
 
 ---
 
-<a name="-group-8-civilityai---仇恨言论检测系统-简体中文"></a>
+<a name="-group-8---仇恨言论检测系统-简体中文"></a>
 ## 📖 项目简介 (简体中文)
 
-**CivilityAI** 是一个基于 NLP 技术的仇恨言论检测与缓解系统。本项目由 **第八组 (Group 8)** 开发，作为自然语言处理课程作业，采用了结合传统语言学特征与 **BERT** 深度学习特征的混合模型方法。
+**Hate Speech Detection System** 是一个基于 NLP 技术的仇恨言论检测与缓解系统。本项目由 **第八组 (Group 8)** 开发，作为自然语言处理课程作业，采用了结合传统语言学特征与 **BERT** 深度学习特征的混合模型方法。
 
 该系统不仅能够将文本分类为 **仇恨言论**、**攻击性语言** 或 **正常言论**，还提供实时的置信度可视化，并具备自动 **仇恨词屏蔽** 功能，致力于构建更安全的网络环境。
 
@@ -106,12 +106,6 @@ streamlit run apppro.py
 python hate_speech_detection_with_bert.py
 ```
 
-## 👥 Team - Group 8 / 第八组成员
-
-*   **Member 1**
-*   **Member 2**
-*   **Member 3**
-*   **Member 4**
 
 ## 🙏 Acknowledgements / 致谢
 
