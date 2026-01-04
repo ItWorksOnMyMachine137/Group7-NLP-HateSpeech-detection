@@ -1,4 +1,4 @@
-# 🛡️ Group 8 - Hate Speech Detection System
+# 🛡️ Group 7 - Hate Speech Detection System
 
 ![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -7,13 +7,13 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
-[English](#-group-8---hate-speech-detection-system-english) | [简体中文](#-group-8---仇恨言论检测系统-简体中文)
+[English](#-group-7---hate-speech-detection-system-english) | [简体中文](#-group-7---仇恨言论检测系统-简体中文)
 ---
 
-<a name="-group-8---hate-speech-detection-system-english"></a>
+<a name="-group-7---hate-speech-detection-system-english"></a>
 ## 📖 Project Overview (English)
 
-**Hate Speech Detection System** is an NLP-based system designed to detect and categorize hate speech in online text. Developed by **Group 8** for our NLP course project, this system leverages a hybrid approach combining traditional linguistic features and **BERT embeddings**.
+**Hate Speech Detection System** is an NLP-based system designed to detect and categorize hate speech in online text. Developed by **Group 7** for our NLP course project, this system leverages a hybrid approach combining traditional linguistic features and **BERT embeddings**.
 
 The system classifies text into **Hate Speech**, **Offensive Language**, or **Neutral**, provides confidence score analysis, and implements **keyword masking** for sensitive terms.
 
@@ -38,7 +38,7 @@ The system classifies text into **Hate Speech**, **Offensive Language**, or **Ne
 
 ---
 
-<a name="-group-8---仇恨言论检测系统-简体中文"></a>
+<a name="-group-7---仇恨言论检测系统-简体中文"></a>
 ## 📖 项目简介 (简体中文)
 
 **Hate Speech Detection System** 是一个基于 NLP 技术的仇恨言论检测系统。本项目由 **第八组 (Group 8)** 开发，作为自然语言处理课程作业，采用了结合传统语言学特征与 **BERT** 嵌入的混合模型方法。
@@ -101,7 +101,7 @@ We evaluated our ensemble model using various metrics. Below are the ROC and Pre
 ```bash
 # Clone the repository / 克隆仓库
 git clone https://github.com/shiyue137/Group8-NLP-HateSpeech-detection.git
-cd Group8-NLP-HateSpeech-detection
+cd Group7-NLP-HateSpeech-detection
 
 # Install dependencies / 安装依赖
 pip install -r requirements.txt
